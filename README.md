@@ -1,3 +1,5 @@
+[React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate) inside docker container.
+
 ##Usage
 
 ```
